@@ -96,7 +96,7 @@
 
 ## 스터디 문제 목록
 |주차|날짜|문제이름|난이도|
-|---|------|---|---|
-|1주차|250311|[택배 상자 꺼내기]([링크](https://school.programmers.co.kr/learn/courses/30/lessons/389478))|`LV.1`|
-||250311|[유연근무제]([링크](https://school.programmers.co.kr/learn/courses/30/lessons/388351))|`LV.1`|
-||250311|[아날로그 시계]([링크](https://school.programmers.co.kr/learn/courses/30/lessons/250135))|`LV.2`|
+|---|------|:---:|---|
+|1주차|250311|[택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478)|`LV.1`|
+||250311|[유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)|`LV.1`|
+||250311|[아날로그](https://school.programmers.co.kr/learn/courses/30/lessons/250135)|`LV.2`|
