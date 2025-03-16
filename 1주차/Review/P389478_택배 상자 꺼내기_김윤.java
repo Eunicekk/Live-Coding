@@ -4,7 +4,6 @@ class Solution {
         int row = (num - 1) / w;
         int col = (num - 1) % w;
         
-        // 홀수 층인 경우 열 위치 반전
         if (row % 2 == 1) {
             col = w - 1 - col;
         }
