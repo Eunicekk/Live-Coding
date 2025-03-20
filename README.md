@@ -100,3 +100,6 @@
 |1주차|250311|[택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478)|`LV.1`|
 ||250311|[유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)|`LV.1`|
 ||250311|[아날로그](https://school.programmers.co.kr/learn/courses/30/lessons/250135)|`LV.2`|
+|2주차|250318|[산책](https://school.programmers.co.kr/learn/courses/30/lessons/250129)|`LV.0`|
+||250318|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|`LV.1`|
+||250318|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|`LV.1`|
