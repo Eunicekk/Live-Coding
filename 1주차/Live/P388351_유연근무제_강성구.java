@@ -1,7 +1,7 @@
 class Solution {
     public int solution(int[] schedules, int[][] timelogs, int startday) {
         int answer = 0;
-        int n = schedules.length;           //직원수
+        int n = schedules.length;           // 직원수
         // 1 -> 5,6
         // 2-> 4,5
         // 3-> 3,4
