@@ -103,3 +103,6 @@
 |2주차|250318|[산책](https://school.programmers.co.kr/learn/courses/30/lessons/250129)|`LV.0`|
 ||250318|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|`LV.1`|
 ||250318|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|`LV.1`|
+|3주차|250325|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|`LV.1`|
+||250325|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|`LV.2`|
+||250325|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|`LV.2`|
