@@ -1,0 +1,30 @@
+import java.util.*;
+
+class Solution {
+    public int solution(int k, int[] tangerine) {
+        int answer = 0;
+        int l = tangerine.length;                   //귤 갯수
+        PriorityQueue<Integer> que = new PriorityQueue<>((a, b) -> b-a);    //내림차순
+        Arrays.sort(tangerine);                     //크기별로 나열
+        int idx = 0;
+        int nowSize = -1;
+        int howMany = 0;
+        while(idx<l){
+            if(tangerine[idx]==nowSize){
+                howMany++;
+            }else{
+                que.add(howMany);
+                howMany = 1;
+                nowSize = tangerine[idx];
+            }
+            idx++;
+        }
+        que.add(howMany);
+        int tmp = 0;
+        while(!que.isEmpty() && tmp<k){
+            tmp+=que.poll();
+            answer++;
+        }
+        return answer;
+    }
+}
