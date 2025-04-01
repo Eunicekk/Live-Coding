@@ -106,3 +106,6 @@
 |3주차|250325|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|`LV.1`|
 ||250325|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|`LV.2`|
 ||250325|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|`LV.2`|
+|4주차|250401|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|`LV.1`|
+||250401|[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)|`LV.2`|
+||250401|[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|`LV.2`|
