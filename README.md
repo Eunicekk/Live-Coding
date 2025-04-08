@@ -109,3 +109,6 @@
 |4주차|250401|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|`LV.1`|
 ||250401|[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)|`LV.2`|
 ||250401|[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|`LV.2`|
+|5주차|160585|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|`LV.2`|
+||154540|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|`LV.2`|
+||148653|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|`LV.2`|
