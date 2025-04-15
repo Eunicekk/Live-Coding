@@ -112,3 +112,6 @@
 |5주차|160585|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|`LV.2`|
 ||154540|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|`LV.2`|
 ||148653|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|`LV.2`|
+|6주차|77484|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|`LV.1`|
+||81302|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|`LV.2`|
+||258705|[산 모양 타일](https://school.programmers.co.kr/learn/courses/30/lessons/258705)|`LV.3`|
