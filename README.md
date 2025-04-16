@@ -115,3 +115,4 @@
 |6주차|77484|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|`LV.1`|
 ||81302|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|`LV.2`|
 ||258705|[산 모양 타일](https://school.programmers.co.kr/learn/courses/30/lessons/258705)|`LV.3`|
+|추가문제|17679|[[1차]프렌즈4블](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|`LV.2`|
