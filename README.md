@@ -118,4 +118,4 @@
 |추가문제|17679|[[1차]프렌즈4블](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|`LV.2`|
 |7주차|159993|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|`LV.2`|
 ||389480|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|`LV.2`|
-||178870|[연속된 부분 수열의 ](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|`LV.2`|
+||178870|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|`LV.2`|
