@@ -119,3 +119,6 @@
 |7주차|159993|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|`LV.2`|
 ||389480|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|`LV.2`|
 ||178870|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|`LV.2`|
+|8주차|131127|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|`LV.2`|
+||340212|[[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|`LV.2`|
+||388352|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|`LV.2`|
