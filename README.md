@@ -109,16 +109,16 @@
 |4주차|250401|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|`LV.1`|
 ||250401|[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)|`LV.2`|
 ||250401|[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|`LV.2`|
-|5주차|160585|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|`LV.2`|
-||154540|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|`LV.2`|
-||148653|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|`LV.2`|
-|6주차|77484|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|`LV.1`|
-||81302|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|`LV.2`|
-||258705|[산 모양 타일](https://school.programmers.co.kr/learn/courses/30/lessons/258705)|`LV.3`|
-|추가문제|17679|[[1차]프렌즈4블](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|`LV.2`|
-|7주차|159993|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|`LV.2`|
-||389480|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|`LV.2`|
-||178870|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|`LV.2`|
-|8주차|131127|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|`LV.2`|
-||340212|[[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|`LV.2`|
-||388352|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|`LV.2`|
+|5주차|250408|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|`LV.2`|
+||250408|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|`LV.2`|
+||250408|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|`LV.2`|
+|6주차|250415|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|`LV.1`|
+||250415|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|`LV.2`|
+||250415|[산 모양 타일](https://school.programmers.co.kr/learn/courses/30/lessons/258705)|`LV.3`|
+|추가문제|250415|[[1차]프렌즈4블](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|`LV.2`|
+|7주차|250422|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|`LV.2`|
+||250422|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|`LV.2`|
+||250422|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|`LV.2`|
+|8주차|250506|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|`LV.2`|
+||250506|[[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|`LV.2`|
+||250506|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|`LV.2`|
