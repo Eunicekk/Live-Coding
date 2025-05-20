@@ -122,3 +122,6 @@
 |8주차|250506|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|`LV.2`|
 ||250506|[[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|`LV.2`|
 ||250506|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|`LV.2`|
+|9주차|250520|[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|`LV.2`|
+||250520|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|`LV.2`|
+||250520|[테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|`LV.2`|
