@@ -1,6 +1,85 @@
-# 🤖 Live-Coding
-> 코딩테스트 대비를 위한 Java 기반 라이브 코딩 스터디🎓<br/>
+# 🤖 Live-Coding Renewal
+> 코딩테스트 대비를 위한 Java / Javascript 기반 라이브 코딩 스터디🎓<br/>
 > 알고리즘 마스터가 되는 그날까지 파이팅💪🏻
+
+## 스터디 참여 인원
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/ide05484">
+            <img src="https://github.com/ide05484.png" alt="ide05484" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/Eunicekk">
+            <img src="https://github.com/Eunicekk.png" alt="Eunicekk" width="100px" />
+        </a>
+    </td>
+      <td>
+        <a href="https://github.com/goldenkiwi-hyeuk">
+            <img src="https://github.com//goldenkiwi-hyeuk.png" alt="goldenkiwi-hyeuk" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/5ooyeon">
+            <img src="https://github.com/5ooyeon.png" alt="5ooyeon" width="100px" />
+        </a>
+    </td>
+  </tr>
+
+  <tr> 
+    <td align="center"><a href="https://github.com/ide05484">김도은</a></td>
+    <td align="center"><a href="https://github.com/Eunicekk">김윤</a></td>
+    <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
+    <td align="center"><a href="https://github.com/5ooyeon">조수연</a></td>
+  </tr>
+</table>
+
+## 스터디 폴더 구조
+```
+├── 251029/
+│   ├── 백준_문제이름_이름.java
+│   ├── 프로그래머스_문제이름_이름.java
+│   └── 소프티어_문제이름_이름.java
+│   
+└── 251030/
+    ├── 백준_문제이름_이름.java
+    ├── 프로그래머스_문제이름_이름.java
+    └── 소프티어_문제이름_이름.java
+```
+- 파일 이름은 `사이트_문제이름_이름` 방식으로 설정하기
+
+## 스터디 커밋 방식
+1. 문제 추가의 경우
+```
+[Add] 사이트_문제이름_이름
+```
+
+2. 문제 수정의 경우
+```
+[Update] 사이트_문제이름_이름
+```
+
+3. 문제 삭제의 경우
+```
+[Delete] 사이트_문제이름_이름
+```
+
+## 스터디 문제 목록
+|회차|날짜|문제이름|난이도|비고|
+|:--:|------|:-----:|-----|:--:|
+|1|251029|[행렬 테두리 회전하기](https://discord.com/channels/1332312979642777600/1432734931565674598/1432880731264122911)|`level 2`|LIVE|
+||251029|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|`level 2`|과제|
+||251029|[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|`level 2`|과제|
+
+<br />
+<br />
+<br />
+
+---
+
+# History
+과거에 진행했던 Live-Coding 스터디 히스토리입니다.
 
 ## 스터디 참여 인원
 <table>
@@ -11,7 +90,7 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/doongyeop">
+        <a href="https://github.com//ide05484">
             <img src="https://github.com/ide05484.png" alt="ide05484" width="100px" />
         </a>
     </td>
@@ -100,3 +179,28 @@
 |1주차|250311|[택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478)|`LV.1`|
 ||250311|[유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351)|`LV.1`|
 ||250311|[아날로그](https://school.programmers.co.kr/learn/courses/30/lessons/250135)|`LV.2`|
+|2주차|250318|[산책](https://school.programmers.co.kr/learn/courses/30/lessons/250129)|`LV.0`|
+||250318|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|`LV.1`|
+||250318|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)|`LV.1`|
+|3주차|250325|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)|`LV.1`|
+||250325|[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|`LV.2`|
+||250325|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|`LV.2`|
+|4주차|250401|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|`LV.1`|
+||250401|[서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479)|`LV.2`|
+||250401|[충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211)|`LV.2`|
+|5주차|250408|[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|`LV.2`|
+||250408|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|`LV.2`|
+||250408|[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|`LV.2`|
+|6주차|250415|[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)|`LV.1`|
+||250415|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|`LV.2`|
+||250415|[산 모양 타일](https://school.programmers.co.kr/learn/courses/30/lessons/258705)|`LV.3`|
+|추가문제|250415|[[1차]프렌즈4블](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|`LV.2`|
+|7주차|250422|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|`LV.2`|
+||250422|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|`LV.2`|
+||250422|[연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|`LV.2`|
+|8주차|250506|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|`LV.2`|
+||250506|[[PCCP 기출문제] 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212)|`LV.2`|
+||250506|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|`LV.2`|
+|9주차|250520|[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|`LV.2`|
+||250520|[혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|`LV.2`|
+||250520|[테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|`LV.2`|
