@@ -1,6 +1,85 @@
-# 🤖 Live-Coding
-> 코딩테스트 대비를 위한 Java 기반 라이브 코딩 스터디🎓<br/>
+# 🤖 Live-Coding Renewal
+> 코딩테스트 대비를 위한 Java / Javascript 기반 라이브 코딩 스터디🎓<br/>
 > 알고리즘 마스터가 되는 그날까지 파이팅💪🏻
+
+## 스터디 참여 인원
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/ide05484">
+            <img src="https://github.com/ide05484.png" alt="ide05484" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/Eunicekk">
+            <img src="https://github.com/Eunicekk.png" alt="Eunicekk" width="100px" />
+        </a>
+    </td>
+      <td>
+        <a href="https://github.com/goldenkiwi-hyeuk">
+            <img src="https://github.com//goldenkiwi-hyeuk.png" alt="goldenkiwi-hyeuk" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/5ooyeon">
+            <img src="https://github.com/5ooyeon.png" alt="5ooyeon" width="100px" />
+        </a>
+    </td>
+  </tr>
+
+  <tr> 
+    <td align="center"><a href="https://github.com/ide05484">김도은</a></td>
+    <td align="center"><a href="https://github.com/Eunicekk">김윤</a></td>
+    <td align="center"><a href="https://github.com/goldenkiwi-hyeuk">박성혁</a></td>
+    <td align="center"><a href="https://github.com/5ooyeon">조수연</a></td>
+  </tr>
+</table>
+
+## 스터디 폴더 구조
+```
+├── 251029/
+│   ├── 백준_문제이름_이름.java
+│   ├── 프로그래머스_문제이름_이름.java
+│   └── 소프티어_문제이름_이름.java
+│   
+└── 251030/
+    ├── 백준_문제이름_이름.java
+    ├── 프로그래머스_문제이름_이름.java
+    └── 소프티어_문제이름_이름.java
+```
+- 파일 이름은 `사이트_문제이름_이름` 방식으로 설정하기
+
+## 스터디 커밋 방식
+1. 문제 추가의 경우
+```
+[Add] 사이트_문제이름_이름
+```
+
+2. 문제 수정의 경우
+```
+[Update] 사이트_문제이름_이름
+```
+
+3. 문제 삭제의 경우
+```
+[Delete] 사이트_문제이름_이름
+```
+
+## 스터디 문제 목록
+|회차|날짜|문제이름|난이도|비고|
+|:--:|------|:-----:|-----|:--:|
+|1|251029|[행렬 테두리 회전하기](https://discord.com/channels/1332312979642777600/1432734931565674598/1432880731264122911)|`level 2`|LIVE|
+||251029|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|`level 2`|과제|
+||251029|[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|`level 2`|과제|
+
+<br />
+<br />
+<br />
+
+---
+
+# History
+과거에 진행했던 Live-Coding 스터디 히스토리입니다.
 
 ## 스터디 참여 인원
 <table>
@@ -11,7 +90,7 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/doongyeop">
+        <a href="https://github.com//ide05484">
             <img src="https://github.com/ide05484.png" alt="ide05484" width="100px" />
         </a>
     </td>
