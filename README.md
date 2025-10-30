@@ -68,9 +68,13 @@
 ## 스터디 문제 목록
 |회차|날짜|문제이름|난이도|비고|
 |:--:|------|:-----:|-----|:--:|
-|1|251029|[행렬 테두리 회전하기](https://discord.com/channels/1332312979642777600/1432734931565674598/1432880731264122911)|`level 2`|LIVE|
+|01|251029|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|`level 2`|LIVE|
 ||251029|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|`level 2`|과제|
 ||251029|[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|`level 2`|과제|
+|02|251030|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|`level 3`|LIVE|
+||251030|[숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|`level 2`|LIVE|
+||251030|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|`level 2`|과제|
+||251030|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|`level 2`|과제|
 
 <br />
 <br />
